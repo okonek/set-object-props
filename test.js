@@ -43,6 +43,8 @@ describe("set object props", () => {
                 });
             };
 
+            console.log(result);
+
             expectObject(result, testObject);
 
         }
