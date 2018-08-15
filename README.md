@@ -1,5 +1,7 @@
 # set-object-props
 
+[![Build Status](https://travis-ci.org/okonek/set-object-props.png?branch=master)](https://travis-ci.org/okonek/set-object-props)
+
 > A simple NodeJS lib, which allows you to set all of the object properties, including deep nested objects, to a custom value
 
 ## Install
