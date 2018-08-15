@@ -1,0 +1,30 @@
+{
+  "name": "set-object-props",
+  "version": "1.0.0",
+  "description": "A simple NodeJS lib, which allows you to set all of the object properties, including deep nested objects, to a custom value",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okonek/set-object-props.git"
+  },
+  "keywords": [
+    "object",
+    "props",
+    "properties",
+    "edit",
+    "deep"
+  ],
+  "author": "okonek83 <jandominikokonski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okonek/set-object-props/issues"
+  },
+  "homepage": "https://github.com/okonek/set-object-props#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
