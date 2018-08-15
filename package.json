@@ -1,6 +1,6 @@
 {
   "name": "set-object-props",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple NodeJS lib, which allows you to set all of the object properties, including deep nested objects, to a custom value",
   "main": "index.js",
   "scripts": {
