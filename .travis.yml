@@ -6,5 +6,6 @@ install:
   - npm install -g codecov
   - npm install -g mocha
 script:
+- npm install
 - istanbul cover mocha --report lcovonly -- -R spec
 - codecov
